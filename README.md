@@ -17,11 +17,11 @@
 
 <br>
 
-- Tenho 18 anos
+- Tenho 19 anos
 - Gosto muito de jogos
 - Adoro aprender coisas novas
 - Amo tecnologia
-- Atualmente estou aberto para uma nova oportunidade de trabalho
+- Atualmente trabalho na IBM (Internacional Business Machine)
 
 <br><br>
 

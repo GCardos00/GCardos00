@@ -21,7 +21,7 @@
 - Gosto muito de jogos
 - Adoro aprender coisas novas
 - Amo tecnologia
-- Atualmente trabalho na IBM (Internacional Business Machine)
+- Aberto para novas experiências
 
 <br><br>
 

@@ -11,9 +11,9 @@
 
 
 	
-**Sobre mim**
+<b>**Sobre mim**</b>
 
-<br><br>
+<br>
 
 - Tenho 21 anos
 - Gosto muito de jogos

@@ -13,7 +13,7 @@
 	
 **Sobre mim**
 
-<br>
+<br><br>
 
 - Tenho 21 anos
 - Gosto muito de jogos

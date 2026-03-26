@@ -13,7 +13,7 @@
 	
 <b>**Sobre mim**</b>
 
-<br>
+<hr>
 
 - Tenho 21 anos
 - Gosto muito de jogos
@@ -40,7 +40,6 @@
   
   <img height="70px" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png"/>
   <img height="70px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"/>
-  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"/>
   <img height="70px" src="https://logospng.org/download/java/logo-java-512.png"/>
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"/>

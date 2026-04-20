@@ -42,8 +42,6 @@
   <img height="70px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"/>
   <img height="70px" src="https://logospng.org/download/java/logo-java-512.png"/>
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
-  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"/>
-  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png"/> 
   
   </div>
 
@@ -75,30 +73,10 @@
 <br>
 
 -----
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
 <ul>
-
-<li>
-<a href="https://www.linkedin.com/in/gcardos00/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Gustavo Cardoso-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:cardos00@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Gustavo Cardoso-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
 </ul>
 </div>
 
